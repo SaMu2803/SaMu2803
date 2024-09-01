@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/samu2803/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=samu2803.samu2803&"  />
 </div>
 
 ###
