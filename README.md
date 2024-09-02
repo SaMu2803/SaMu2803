@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://Views-badge.laobi.icu/badge?page_id=samu2803.samu2803&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=samu2803.samu2803&"  />
 </div>
 
 ###
